@@ -1,0 +1,38 @@
+name: mindtrack_ai
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  
+  # State Management
+  provider: ^6.1.1
+  
+  # Veritabanı (Database)
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  
+  # Grafikler (Analytics)
+  fl_chart: ^0.70.0
+  google_mlkit_entity_extraction: ^0.15.3
+  image_picker: ^1.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Eğer ileride resim/logo eklersen burayı kullanacağız
+  # assets:
+  #   - assets/images/logo.png
