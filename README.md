@@ -1,16 +1,52 @@
-# mindtrack_ai
+# 🧠✨ **S E N T I L O G** — AI POWERED EMOTIONAL JOURNAL
 
-A new Flutter project.
+## 🚀 **SENTILOG NEDİR?**
 
-## Getting Started
+> **SENTILOG**, kullanıcıların günlük ruh hallerini takip etmelerini, duygularını yazıya dökmelerini ve fotoğraflarla destekleyerek dijital bir duygu günlüğü oluşturmalarını sağlayan modern bir Flutter uygulamasıdır.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+# 🔥 **SENTILOG ÖZELLİKLERİ**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🎭 **Akıllı Duygu Takibi (SENTILOG Core)**
+- 📸 **Görsel Günlük (SENTILOG Camera)**
+- 📝 **Not Sistemi (SENTILOG Notes)**
+- 📜 **Geçmiş Analizi (SENTILOG History)**
+- 💾 **Offline Veri (SENTILOG Storage)**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+# 🛠️⚡ **SENTILOG TEKNOLOJİLERİ**
+
+- 🚀 **Flutter**
+- 🧠 **Provider**
+- 💾 **Hive**
+- 📸 **Image Picker**
+- 🎨 **Material Design 3**
+
+---
+
+# 📸📱 **SENTILOG EKRANLARI**
+
+| Ana Sayfa | Geçmiş | Kamera |
+|----------|--------|--------|
+| ![Mood](https://via.placeholder.com/200x400) | ![History](https://via.placeholder.com/200x400) | ![Camera](https://via.placeholder.com/200x400) |
+
+---
+
+# ⚙️🧩 **SENTILOG KURULUM**
+
+```bash
+git clone https://github.com/berkayozdmr21/SentiLog.git
+cd SentiLog
+flutter pub get
+flutter run
+
+
+
+👨‍💻✨ SENTILOG DEVELOPER
+BERKAY ÖZDEMİR
+
+📧 berkay.oz@gmail.com
+
+🎓 İskenderun Teknik Üniversitesi — Yüksek Lisans
