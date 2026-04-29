@@ -1,4 +1,4 @@
-# 🧠✨ **S E N T I L O G**  
+ 🧠✨ **S E N T I L O G**  
 ## 🚀 AI POWERED EMOTIONAL JOURNAL
 
 > **SENTILOG**, ruh halini analiz eden, sana özel öneriler sunan ve anılarını kaydeden akıllı bir dijital duygu günlüğüdür.
@@ -44,10 +44,11 @@ Modern mobil uygulama geliştirme standartlarıyla geliştirildi:
 ---
 
 # 📸📱 **SENTILOG EKRANLARI**
+<img width="739" height="1600" alt="WhatsApp Image 2026-04-29 at 11 35 02" src="https://github.com/user-attachments/assets/fabab341-f82b-4c10-8611-4facfc46e85b" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-04-29 at 11 35 02 (1)" src="https://github.com/user-attachments/assets/36dc9f2e-27ab-46bb-9def-d4dca44992db" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-04-29 at 11 35 03" src="https://github.com/user-attachments/assets/e86ba462-37a8-40a9-b6fb-90e390db6603" />
 
-<img width="739" height="1600" alt="WhatsApp Image 2026-04-29 at 11 35 02" src="https://github.com/user-attachments/assets/00d906e2-0b18-482f-aefa-37f4e0b631d8" />
-<img width="739" height="1600" alt="WhatsApp Image 2026-04-29 at 11 35 02 (1)" src="https://github.com/user-attachments/assets/9bcdf7e2-87c1-4ad6-922a-c5f2cbf308e4" />
-<img width="739" height="1600" alt="WhatsApp Image 2026-04-29 at 11 35 03" src="https://github.com/user-attachments/assets/25e5f8a7-0b11-4c40-8efd-e43a102e1cb8" />
+
 
 
 
@@ -64,25 +65,13 @@ flutter pub get
 3️⃣ UYGULAMAYI ÇALIŞTIR
 flutter run
 
+```
+# 👨‍💻✨ **SENTILOG DEVELOPER**
 
+## **BERKAY ÖZDEMİR**
 
+### 💼 **SOFTWARE DEVELOPER**
 
+### 📧 **E-POSTA:** berkay.oz3321@gmail.com  
 
-
-
-
-
-
-
-
-
-
-
-
-
-👨‍💻✨ SENTILOG DEVELOPER
-BERKAY ÖZDEMİR
-
-📧 berkay.oz@gmail.com
-
-🎓 İskenderun Teknik Üniversitesi — Yüksek Lisans
+### 🎓 **EĞİTİM:** İSKENDERUN TEKNİK ÜNİVERSİTESİ — MASTER STUDENT
