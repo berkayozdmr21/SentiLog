@@ -65,6 +65,21 @@ flutter pub get
 flutter run
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 👨‍💻✨ SENTILOG DEVELOPER
 BERKAY ÖZDEMİR
 
