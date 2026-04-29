@@ -45,11 +45,11 @@ Modern mobil uygulama geliştirme standartlarıyla geliştirildi:
 
 # 📸📱 **SENTILOG EKRANLARI**
 
-| Ana Sayfa | Geçmiş | Kamera |
-|----------|--------|--------|
-| ![Mood Selection](https://via.placeholder.com/200x400?text=Mood+Selection) | ![History Log](https://via.placeholder.com/200x400?text=History+Log) | ![Image Capture](https://via.placeholder.com/200x400?text=Camera+Feature) |
+<img width="739" height="1600" alt="WhatsApp Image 2026-04-29 at 11 35 02" src="https://github.com/user-attachments/assets/00d906e2-0b18-482f-aefa-37f4e0b631d8" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-04-29 at 11 35 02 (1)" src="https://github.com/user-attachments/assets/9bcdf7e2-87c1-4ad6-922a-c5f2cbf308e4" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-04-29 at 11 35 03" src="https://github.com/user-attachments/assets/25e5f8a7-0b11-4c40-8efd-e43a102e1cb8" />
 
-> 📌 *Gerçek ekran görüntüleri eklersen proje 2x daha profesyonel görünür.*
+
 
 ---
 
